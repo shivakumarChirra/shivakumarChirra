@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm shivakumarChirra</h1>
+<h1 align="center">Hi 👋, I'm shivakumar</h1>
 <h3 align="center">A passionate IOS Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivakumarchirra&label=Profile%20views&color=0e75b6&style=flat" alt="shivakumarchirra" /> </p>
