@@ -9,13 +9,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/shivakumarChirra/shivakumarChirra/main/slogo.png" alt="SA Logo" width="100" />
 </p>
-
-
-
-<p align="center">
-  <img src="https://shivappz.netlify.app/assets/sa_logo.png" alt="SA Logo" width="100" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -31,9 +24,6 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
   </a>
@@ -82,7 +72,7 @@
 
 - 📧 Email: [chirrashivakumar5@gmail.com](mailto:chirrashivakumar5@gmail.com)  
 - 🌍 Portfolio: [shivappz.netlify.app](https://shivappz.netlify.app)  
-- 💼 LinkedIn: *([Add your LinkedIn link here](https://www.linkedin.com/in/shivakumarchirra/))*  
+- 💼 LinkedIn: *([linkedIn](https://www.linkedin.com/in/shivakumarchirra/))*  
 
 ---
 
