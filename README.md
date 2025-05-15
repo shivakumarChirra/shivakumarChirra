@@ -79,7 +79,7 @@
 
 - 📧 Email: [chirrashivakumar5@gmail.com](mailto:chirrashivakumar5@gmail.com)  
 - 🌍 Portfolio: [shivappz.netlify.app](https://shivappz.netlify.app)  
-- 💼 LinkedIn: *(Add your LinkedIn link here)*  
+- 💼 LinkedIn: *([Add your LinkedIn link here](https://www.linkedin.com/in/shivakumarchirra/))*  
 
 ---
 
