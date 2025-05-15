@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shivakumarChirra/shivakumarChirra/main/logo.png" alt="SA Logo" width="100" />
+  <img src="https://raw.githubusercontent.com/shivakumarChirra/shivakumarChirra/main/slogo.png" alt="SA Logo" width="100" />
 </p>
 
 
