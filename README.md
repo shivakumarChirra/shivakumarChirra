@@ -1,19 +1,94 @@
 <h1 align="center">Hi 👋, I'm shivakumar</h1>
 <h3 align="center">A passionate IOS Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivakumarchirra&label=Profile%20views&color=0e75b6&style=flat" alt="shivakumarchirra" /> </p>
-
-- 🌱 I’m currently learning **x code with swift and swift ui**
-
-- 💬 Ask me about **swift**
-
-- 📫 How to reach me **chirrashivakumar5@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/shivakumarchirra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiva kumar" height="30" width="40" /></a>
-
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://shivappz.netlify.app/assets/banner.png" alt="Shivappz Banner" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Shivakumar Chirra</h1>
+<h3 align="center">A passionate iOS Developer from India</h3>
+
+<p align="center">
+  <img src="https://shivappz.netlify.app/assets/sa_logo.png" alt="SA Logo" width="100" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Graduate | Mobile App Development Intern  
+- 🌱 Currently learning: `Swift`, `SwiftUI`, `Xcode`, and `iOS Game Development`  
+- 💬 Ask me about anything related to **Swift** or **iOS development**  
+- 🛠️ Building iOS apps like timers, games, and quizzes  
+- 🌍 Goal: To work as an iOS Developer in Germany 🇩🇪  
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
+  </a>
+  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_14_icon.png" alt="Xcode" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+## 📱 My Apps
+
+<p align="left">
+  <a href="https://shivappz.netlify.app/#xylophone" target="_blank">
+    <img src="https://img.shields.io/badge/Xylophone-Play%20Music-orange?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+  <a href="https://shivappz.netlify.app/#egg-timer" target="_blank">
+    <img src="https://img.shields.io/badge/Egg%20Timer-Countdown-blue?style=for-the-badge&logo=clockify&logoColor=white" />
+  </a>
+  <a href="https://shivappz.netlify.app/#quiz-app" target="_blank">
+    <img src="https://img.shields.io/badge/Quiz%20App-Test%20Swift-green?style=for-the-badge&logo=swift&logoColor=white" />
+  </a>
+  <a href="https://shivappz.netlify.app/#dice-app" target="_blank">
+    <img src="https://img.shields.io/badge/Dice%20Roller-Random%20Fun-yellow?style=for-the-badge&logo=dice&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: [chirrashivakumar5@gmail.com](mailto:chirrashivakumar5@gmail.com)  
+- 🌍 Portfolio: [shivappz.netlify.app](https://shivappz.netlify.app)  
+- 💼 LinkedIn: *(Add your LinkedIn link here)*  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivakumarChirra&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+> “Code with passion. Build with purpose. Launch with confidence.” — *Shivakumar*
