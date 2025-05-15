@@ -3,7 +3,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="[https://shivappz.netlify.app/assets/banner.png](https://github.com/shivakumarChirra/shivakumarChirra/blob/main/banner.png)" alt="Shivappz Banner" width="100%" />
+  <img src="[[https://shivappz.netlify.app/assets/banner.png](https://github.com/shivakumarChirra/shivakumarChirra/blob/main/banner.png)](https://github.com/shivakumarChirra/shivakumarChirra/blob/main/banner.png)" alt="Shivappz Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shivakumar Chirra</h1>
