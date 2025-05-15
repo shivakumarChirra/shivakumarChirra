@@ -10,8 +10,7 @@
   <img src="https://raw.githubusercontent.com/shivakumarChirra/shivakumarChirra/main/logo.png" alt="SA Logo" width="100" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Shivakumar Chirra</h1>
-<h3 align="center">A passionate iOS Developer from India</h3>
+
 
 <p align="center">
   <img src="https://shivappz.netlify.app/assets/sa_logo.png" alt="SA Logo" width="100" />
