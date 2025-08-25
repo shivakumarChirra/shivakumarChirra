@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/shivakumarChirra/shivakumarChirra/main/slogo.png" alt="SA Logo" width="100" />
 </p>
----
 
 ## 👨‍💻 About Me
 
@@ -19,7 +18,6 @@
 - 🛠️ Building iOS apps like timers, games, and quizzes  
 - 🌍 Goal: To work as an iOS Developer in Germany 🇩🇪  
 
----
 
 ## 🛠️ Languages and Tools
 
@@ -42,7 +40,6 @@
   </a>
 </p>
 
----
 
 ## 📱 My Apps
 
@@ -61,7 +58,6 @@
   </a>
 </p>
 
----
 
 ## 🌐 Connect With Me
 
@@ -69,7 +65,6 @@
 - 🌍 Portfolio: [shivappz.netlify.app](https://shivappz.netlify.app)  
 - 💼 LinkedIn: *([linkedIn](https://www.linkedin.com/in/shivakumarchirra/))*  
 
----
 
 ## 📊 GitHub Stats
 
@@ -77,6 +72,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shivakumarChirra&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
----
+
 
 > “Code with passion. Build with purpose. Launch with confidence.” — *Shivakumar*
