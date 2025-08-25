@@ -70,8 +70,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivakumarChirra&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=shivakumarChirra&theme=radical" alt="GitHub Streak Stats" height="165" />
-</p>
+  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivakumarChirra&layout=compact&theme=radical" alt="Top Languages" />
