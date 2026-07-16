@@ -1,72 +1,173 @@
-<h1 align="center">Hi 👋, I'm shivakumar</h1>
-<h3 align="center">A passionate IOS Developer from India</h3>
+<div align="center">
 
-## 👨‍💻 About Me
+# 👋 Hi, I'm Shivakumar Chirra
 
-- 🎓 B.Tech Graduate | Mobile App Development Intern  
-- 🌱 Currently learning: `Swift`, `SwiftUI`, `Xcode`, and `iOS Game Development`  
-- 💬 Ask me about anything related to **Swift** or **iOS development**  
-- 🛠️ Building iOS apps like timers, games, and quizzes  
-- 🌍 Goal: To work as an iOS Developer in Germany 🇩🇪  
+###  iOS Engineer • Swift • SwiftUI • UIKit • Building Beautiful Apple Experiences
 
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=26&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=800&lines=iOS+Developer;Swift+%7C+SwiftUI+%7C+UIKit;MVVM+Architecture;Building+Production+Ready+iOS+Applications;Always+Learning.+Always+Building." />
 
-## 🛠️ Languages and Tools
+</div>
 
-<p align="left">
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
-  </a>
-  
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
+---
+
+# 🚀 About Me
+
+I'm an **iOS Developer** from **India 🇮🇳** passionate about creating polished, performant, and user-friendly applications for the Apple ecosystem.
+
+I enjoy transforming ideas into production-ready mobile experiences using modern Apple technologies while continuously improving my software engineering skills.
+
+Currently focused on writing clean architecture, scalable code, and beautiful user interfaces.
+
+---
+
+## 💼 Professional Experience
+
+- 📱 Professional iOS Developer
+- 🍎 Building native applications for iPhone
+- ⚡ Experience with production applications
+- 🏗 MVVM Architecture
+- 🌐 REST API Integration
+- 🔄 Async/Await & Networking
+- 💳 Payment Gateway Integration
+- 📦 Git & GitHub Workflow
+- 🎯 Performance Optimization
+- 🧩 Reusable Components
+- 📲 App Store Deployment
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=swift" />
+
 </p>
 
+### Apple Technologies
 
-## 📱 My Apps
+<p>
 
-<p align="left">
-  <a href="https://shivappz.netlify.app/#xylophone" target="_blank">
-    <img src="https://img.shields.io/badge/Xylophone-Play%20Music-orange?style=for-the-badge&logo=apple&logoColor=white" />
-  </a>
-  <a href="https://shivappz.netlify.app/#egg-timer" target="_blank">
-    <img src="https://img.shields.io/badge/Egg%20Timer-Countdown-blue?style=for-the-badge&logo=clockify&logoColor=white" />
-  </a>
-  <a href="https://shivappz.netlify.app/#quiz-app" target="_blank">
-    <img src="https://img.shields.io/badge/Quiz%20App-Test%20Swift-green?style=for-the-badge&logo=swift&logoColor=white" />
-  </a>
-  <a href="https://shivappz.netlify.app/#dice-app" target="_blank">
-    <img src="https://img.shields.io/badge/Dice%20Roller-Random%20Fun-yellow?style=for-the-badge&logo=dice&logoColor=white" />
-  </a>
+<img src="https://skillicons.dev/icons?i=apple" />
+
 </p>
 
+- Swift
+- SwiftUI
+- UIKit
+- Xcode
+- Combine
+- Auto Layout
+- Core Data
+- UserDefaults
+- URLSession
+- JSON
+- App Store Connect
 
-## 🌐 Connect With Me
+---
 
-- 📧 Email: [chirrashivakumar5@gmail.com](mailto:chirrashivakumar5@gmail.com)  
-- 🌍 Portfolio: [shivappz.netlify.app](https://shivappz.netlify.app)  
-- 💼 LinkedIn: *([linkedIn](https://www.linkedin.com/in/shivakumarchirra/))*  
+# ⚙️ Development Tools
 
+<p>
 
-## 📊 GitHub Stats
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,postman,figma" />
+
+</p>
+
+---
+
+# 📱 What I Build
+
+✨ Native iOS Applications
+
+✨ SwiftUI Interfaces
+
+✨ UIKit Applications
+
+✨ REST API Integration
+
+✨ Authentication Systems
+
+✨ Payment Integration
+
+✨ Production Applications
+
+✨ Clean MVVM Architecture
+
+✨ Custom UI Components
+
+✨ Performance Optimized Apps
+
+---
+
+# 🌍 Career Vision
+
+My goal is to become a world-class iOS Engineer building products used by millions of people.
+
+I'm particularly interested in opportunities across Europe where I can contribute to innovative teams while continuing to grow as a software engineer.
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivakumarChirra&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivakumarChirra&layout=compact&theme=radical" alt="Top Languages" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shivakumarChirra&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivakumarChirra&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
+---
 
+# 🔥 GitHub Streak
 
-> “Code with passion. Build with purpose. Launch with confidence.” — *Shivakumar*
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivakumarChirra&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shivakumarChirra&theme=algolia&margin-w=10&no-frame=true&row=1"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+📧 **Email**
+
+**chirrashivakumar5@gmail.com**
+
+🌍 **Portfolio**
+
+https://shivappz.netlify.app
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/shivakumarchirra
+
+---
+
+# 💡 Philosophy
+
+> **"Great software isn't just written—it is carefully designed, thoughtfully engineered, and continuously improved."**
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+⭐ Feel free to explore my repositories and connect with me.
+
+</div>
