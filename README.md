@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm shivakumar</h1>
 <h3 align="center">A passionate IOS Developer from India</h3>
 
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shivakumarChirra/shivakumarChirra/main/banner.png" alt="Shivappz Banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shivakumarChirra/shivakumarChirra/main/slogo.png" alt="SA Logo" width="100" />
-</p>
-
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Graduate | Mobile App Development Intern  
