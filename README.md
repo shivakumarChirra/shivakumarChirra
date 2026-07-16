@@ -110,15 +110,6 @@ I'm particularly interested in opportunities across Europe where I can contribut
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shivakumarChirra&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivakumarChirra&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -132,13 +123,6 @@ I'm particularly interested in opportunities across Europe where I can contribut
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shivakumarChirra&theme=algolia&margin-w=10&no-frame=true&row=1"/>
-
-</p>
 
 ---
 
